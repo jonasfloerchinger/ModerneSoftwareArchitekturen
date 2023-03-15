@@ -17,4 +17,4 @@ Problem: richtige Entscheidung treffen
 
 ## Decision Outcome
 
-Chosen option: "Schichtenmodell", because ein Vorteil des Schichtenmodells ist, dass die Schichten eine gute Wartbarkeit ermöglichen.
+Chosen option: "Schichtenmodell", because ein Vorteil des Schichtenmodells ist, dass die Schichten eine gute Wartbarkeit und Flexibilität ermöglichen. Diese Modularität macht es leicht Erweiterungen vorzunehmen. Außerdem können die einzelnen Schichten in zukünftigen Projekten wiederverwendet werden, wenn man die entsprchende Funktion der Schicht bracht. Durch hinzufügen zusätzliche Schichten nimmt die Skalierbarkeit zu.
